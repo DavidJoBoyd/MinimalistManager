@@ -826,3 +826,11 @@ C:\Users\cwdav\Documents\Projects\Minimalist Manager\Web\obj\Debug\net7.0\Web.dl
 C:\Users\cwdav\Documents\Projects\Minimalist Manager\Web\obj\Debug\net7.0\refint\Web.dll
 C:\Users\cwdav\Documents\Projects\Minimalist Manager\Web\obj\Debug\net7.0\Web.pdb
 C:\Users\cwdav\Documents\Projects\Minimalist Manager\Web\obj\Debug\net7.0\ref\Web.dll
+C:\Users\cwdav\Documents\Projects\Minimalist Manager\Web\bin\Debug\net7.0\wwwroot\_framework\Domain.dll
+C:\Users\cwdav\Documents\Projects\Minimalist Manager\Web\bin\Debug\net7.0\wwwroot\_framework\Domain.pdb
+C:\Users\cwdav\Documents\Projects\Minimalist Manager\Web\bin\Debug\net7.0\wwwroot\_framework\Domain.pdb.gz
+C:\Users\cwdav\Documents\Projects\Minimalist Manager\Web\bin\Debug\net7.0\wwwroot\_framework\Domain.dll.gz
+C:\Users\cwdav\Documents\Projects\Minimalist Manager\Web\bin\Debug\net7.0\Domain.dll
+C:\Users\cwdav\Documents\Projects\Minimalist Manager\Web\bin\Debug\net7.0\Domain.pdb
+C:\Users\cwdav\Documents\Projects\Minimalist Manager\Web\obj\Debug\net7.0\build-gz\KAYtxvCQ.gz
+C:\Users\cwdav\Documents\Projects\Minimalist Manager\Web\obj\Debug\net7.0\build-gz\+0aDXnbP.gz

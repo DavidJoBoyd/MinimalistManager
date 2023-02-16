@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KzRdAKTw+6G6ZpRy/y+mRSlb6/FBGxR3Nj2nRq/89K4=",
+  "Hash": "De09vaKLRWCXpmEyTpnvL0+jACn97G25j94bgQDQ2do=",
   "Source": "Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -49,6 +49,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\cwdav\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.1\\build\\net7.0\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Domain.dll",
+      "SourceId": "Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Domain.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Domain\\bin\\Debug\\net7.0\\Domain.dll"
+    },
+    {
+      "Identity": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Domain.pdb",
+      "SourceId": "Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Domain.pdb",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "symbol",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Domain\\bin\\Debug\\net7.0\\Domain.pdb"
     },
     {
       "Identity": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\dotnet.7.0.1.2df7fdsa37.js",
@@ -3451,6 +3485,23 @@
       "OriginalItemSpec": "C:\\Users\\cwdav\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.1\\runtimes\\browser-wasm\\lib\\net7.0\\WindowsBase.dll"
     },
     {
+      "Identity": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\obj\\Debug\\net7.0\\build-gz\\+0aDXnbP.gz",
+      "SourceId": "Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Domain.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Domain.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Domain.pdb"
+    },
+    {
       "Identity": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\obj\\Debug\\net7.0\\build-gz\\+6kSIljQ.gz",
       "SourceId": "Web",
       "SourceType": "Computed",
@@ -5336,6 +5387,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Runtime.dll"
+    },
+    {
+      "Identity": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\obj\\Debug\\net7.0\\build-gz\\KAYtxvCQ.gz",
+      "SourceId": "Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Domain.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Domain.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Domain.dll"
     },
     {
       "Identity": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\obj\\Debug\\net7.0\\build-gz\\KDXVBGKI.gz",
