@@ -2,13 +2,13 @@
 @using Domain.Entities
 @inject HttpClient Http
 
-<PageTitle>Weather forecast</PageTitle>
+<PageTitle>Minimalism Manager</PageTitle>
 
-<h1>Weather forecast</h1>
+<h1>Items</h1>
 
-<p>This component demonstrates fetching data from the server.</p>
+<p>Here are all of your items.</p>
 
-@if (forecasts == null)
+@if (items == null)
 {
     <p>
         <em>Loading...</em>
@@ -26,13 +26,13 @@ else
         </tr>
         </thead>
         <tbody>
-        @foreach (var forecast in forecasts)
+        @foreach (var item in items)
         {
             <tr>
-                <td>@forecast.Date.ToShortDateString()</td>
-                <td>@forecast.TemperatureC</td>
-                <td>@forecast.TemperatureF</td>
-                <td>@forecast.Summary</td>
+                <td>@item.Name</td>
+                <td>@item.Quantity.ToString()</td>
+                <td>@item.SubItems</td>
+                <td>Test</td>
             </tr>
         }
         </tbody>
@@ -40,24 +40,43 @@ else
 }
 
 @code {
-    private List<WeatherForecast> forecasts;
+    private List<Item> items;
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = new List<WeatherForecast>()
+        items = new List<Item>()
         {
-            new WeatherForecast
+            new Item()
             {
-                Date = DateTime.Now,
-                TemperatureC = 35,
-                Summary = "Test"
+                Name = "Kitchen",
+                SubItems = new List<Item>()
+                {
+                    new Item()
+                    {
+                        Name = "Spatula"
+                    },
+                    new Item()
+                    {
+                        Name = "Knife"
+                    },
+                },
             },
-            new WeatherForecast
+            new Item()
             {
-                Date = DateTime.Today,
-                TemperatureC = 10,
-                Summary = "Test 2",
-            }
+                Name = "Bedroom",
+                SubItems = new List<Item>()
+                {
+                    new Item()
+                    {
+                        Name = "Computer"
+                    },
+                    new Item()
+                    {
+                        Name = "BackPack"
+                    },
+                },
+            },
+
         };
     }
 

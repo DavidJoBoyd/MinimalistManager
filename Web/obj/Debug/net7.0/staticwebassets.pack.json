@@ -73,10 +73,6 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\wwwroot\\sample-data\\weather.json",
-      "PackagePath": "staticwebassets\\sample-data\\weather.json"
-    },
-    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

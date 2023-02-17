@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "De09vaKLRWCXpmEyTpnvL0+jACn97G25j94bgQDQ2do=",
+  "Hash": "a9N4HfI+JG/Xq9JHdyfecV7z1eNFBsxws4PvgGrcHPc=",
   "Source": "Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -7223,23 +7223,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
-    },
-    {
-      "Identity": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\wwwroot\\sample-data\\weather.json",
-      "SourceId": "Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cwdav\\Documents\\Projects\\Minimalist Manager\\Web\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "sample-data/weather.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
     }
   ]
 }
